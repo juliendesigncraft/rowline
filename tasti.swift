@@ -239,7 +239,7 @@ final class Tasti: ObservableObject {
     func sospendi() { refs.forEach { UnregisterEventHotKey($0) }; refs = [] }
 }
 
-// MARK: - Il gesto sul trackpad
+// MARK: - Trackpad gesture
 
 /// Three or four fingers horizontally move the row. Fingers are read from MultitouchSupport,
 /// the trackpad framework macOS uses for its own gestures (private: loaded by hand, and if it is missing the gesture stays silent).

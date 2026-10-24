@@ -9,7 +9,7 @@ This is the version shown in my reel of 18 October 2026.
 ## What it does
 
 - One row per screen. Each place in the row is a column with one window, or several stacked windows.
-- A thin slider at the bottom: one line per window, brighter for what is on screen, light blue for the focused one. Click a line to jump to that window, or drag to scroll the row.
+- A thin slider at the bottom: one single line as long as the row, brighter where the screen is, light blue on the focused window. Click a point to jump to the window under it, or drag to scroll the row.
 - Workspaces: save the apps, their order and their widths, then restore them with one click or a shortcut.
 - Three-finger swipe on the trackpad to move along the row. Four fingers, or ⌥ with two fingers, also work.
 - A shortcuts sheet: hold ⌃⌥⌘ for almost a second and every shortcut appears. Let go and it disappears.

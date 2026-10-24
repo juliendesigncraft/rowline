@@ -1,7 +1,7 @@
-// Rowline: the BAR. A thin line per window, as wide as the window. Lines on screen are brighter,
-// lines out of view are almost off, the active one is light blue. On hover the lines get thicker (easier to
-// click). When you change window, the app name and its position ("Chrome  2 of 5") appear for a moment above.
-// Click a line: go to that window. Drag: the bright part slides and, on release, the row follows.
+// Rowline: the BAR. One single thin line as long as the whole row: light along the row, brighter where the
+// screen is, light blue on the focused window. On hover it gets thicker (easier to click). When you change
+// window, the app name and its position ("Chrome  2 of 5") appear for a moment above.
+// Click a point: go to the window under it. Drag: the bright part slides and, on release, the row follows.
 
 import AppKit
 import SwiftUI
