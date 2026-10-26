@@ -1,3 +1,5 @@
+> **This repo has moved.** Everything about Pulsar now lives in one place: **[juliendesigncraft/pulsar](https://github.com/juliendesigncraft/pulsar)**. Rowline is a part of Pulsar now: the code is in [`Moduli/Rowline`](https://github.com/juliendesigncraft/pulsar/tree/main/Moduli/Rowline) and the prompt in [`prompts/rowline`](https://github.com/juliendesigncraft/pulsar/tree/main/prompts/rowline). This repo is archived and won't be updated.
+
 # Rowline
 
 Every Mac window in one horizontal row.
